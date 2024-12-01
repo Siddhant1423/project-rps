@@ -1,1 +1,1 @@
-# project-rps
+This is a Project on Rock Paper Scissors Game. HTML and JavaScript is used. Input is taken via prompt and output is presented on console. 
